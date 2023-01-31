@@ -1,11 +1,7 @@
-- name: Github
-  percentage: 95
-  color: info
-
-- name: Adobe Illustrator
+- name: Git/Github
   percentage: 90
-  color: success
+  color: white
 
-- name: Adobe Illustrator
+- name: Jira
   percentage: 90
   color: success
