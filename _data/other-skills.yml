@@ -4,4 +4,8 @@
 
 - name: Jira
   percentage: 90
+  color: primary
+
+- name: Miro
+  percentage: 90
   color: success
